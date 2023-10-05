@@ -3,3 +3,5 @@ Volte aos capítulos sobre listas e teste quais comandos de listas funcionam em 
 Substitua nos programas do capítulo as listas por strings, quando couber, e veja se ocorrem erros 
 de execução.
 '''
+
+#testado
