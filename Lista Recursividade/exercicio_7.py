@@ -12,6 +12,6 @@ def inteiro_binario(num):
         return inteiro_binario(num // 2) + str(num % 2)
 
 
-num1 = 10
+num1 = 15
 binario = inteiro_binario(num1)
 print(f'A representação binária de {num1} é {binario}')
